@@ -15,4 +15,5 @@ chmod +x set-env.sh
 
 Execute the file
 ```
+source ./set-env.sh
 ```
